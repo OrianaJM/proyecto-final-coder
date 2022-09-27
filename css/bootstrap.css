@@ -6,6 +6,9 @@
   font-family: 'Dongle', sans-serif;
   font-family: 'Fauna One', serif;
 }
+body {
+  overflow-x: hidden;
+}
 .contenedor-productos {
   background-color: black;
 }
